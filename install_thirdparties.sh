@@ -11,4 +11,4 @@ mkdir -p $dependcies_dir
 
 
 git clone https://github.com/miloyip/svpng.git $dependcies_dir/svpng
-git clone https://github.com/kocornut/imgui.git $dependcies_dir/imgui
+#git clone https://github.com/kocornut/imgui.git $dependcies_dir/imgui
